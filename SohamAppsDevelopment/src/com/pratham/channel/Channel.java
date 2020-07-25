@@ -13,7 +13,7 @@ public class Channel {
 	}
 	
 	public String deleteChannel() {
-		
+		System.out.println("this is delete by the team leader");
 		return null;
 	}
 	
