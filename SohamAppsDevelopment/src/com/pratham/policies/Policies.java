@@ -15,7 +15,7 @@ public class Policies {
 	}
 	
 	public String fetchPolicy() {
-		
+		System.out.println("fetch policy");
 		return null;
 		
 	}
