@@ -38,4 +38,10 @@ public class Channel {
 		return "m4 method complete";
 	}
 	
+	public String m6() {
+		
+		return null;
+	}
+	
+	
 }
