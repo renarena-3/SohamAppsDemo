@@ -27,4 +27,15 @@ public class Channel {
 		
 		return null;
 	}
+	
+	public String m3() {
+		System.out.println("m3 method undder construction...");
+		return null;
+	}
+	
+	public String  m4() {
+		
+		return "m4 method complete";
+	}
+	
 }
