@@ -8,12 +8,11 @@ public class Channel {
 	}
 	
 	public String createChannel() {
-	System.out.println("this is create channel method...");	
 		return null;
 	}
 	
 	public String deleteChannel() {
-		
+		System.out.println("delete channel by the dev2");
 		return null;
 	}
 	
