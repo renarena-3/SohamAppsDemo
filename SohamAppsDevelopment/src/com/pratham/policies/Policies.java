@@ -10,7 +10,7 @@ public class Policies {
 	}
 	
 	public String updatePolicy() {
-		
+		System.out.println("updated policy");
 		return null;
 	}
 	
