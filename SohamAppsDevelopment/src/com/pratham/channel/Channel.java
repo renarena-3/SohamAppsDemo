@@ -12,7 +12,9 @@ public class Channel {
 	}
 	
 	public String deleteChannel() {
-		System.out.println("delete channel by the dev2");
+
+		System.out.println("this is delete by the team leader");
+
 		return null;
 	}
 	
